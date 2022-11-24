@@ -1,0 +1,32 @@
+.DS_Store
+node_modules
+/dist
+test_wlyn_h5
+test_wlyn_h5.zip
+wlyn_h5
+wlyn_h5.zip
+jhb_test_h5
+jhb_test_h5.zip
+jhb_h5
+jhb_h5.zip
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.zip
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
